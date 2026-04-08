@@ -1,6 +1,6 @@
 # Lista de Exercícios em Java
 
-Esta pasta contém a resolução dos exercícios da primeira listagem em Java, desenvolvidos para praticar os primeiros passos de Programação Orientada a Objetos.
+Esta pasta contém a resolução dos exercícios da primeira listagem em Java de Exercicios, desenvolvidos para praticar os primeiros passos de Programação Orientada a Objetos.
 
 ## Exercícios
 
@@ -15,8 +15,15 @@ Este exercício foi feito de duas formas:
 - com `if/else`
 - com operador ternário
 
+**Arquivos:**
+- `Calculadora.java` → versão com `if/else`
+- `Calculadora2.java` → versão com operador ternário
+
 ### 2. Contador com While
 Crie um laço `while` que imprima os números de 1 a 10 no console.
+
+**Arquivo:**
+- `Contador.java`
 
 ### 3. Contador de Números
 Faça um programa que percorra números entre 0 e 30 e exiba:
@@ -24,8 +31,14 @@ Faça um programa que percorra números entre 0 e 30 e exiba:
 - a quantidade de números pares
 - a quantidade de números ímpares
 
+**Arquivo:**
+- `ContadorParImpar.java`
+
 ### 4. Tabuada com For
 Utilize a estrutura `for` para imprimir a tabuada do número 5, de `5 x 1` até `5 x 10`.
+
+**Arquivo:**
+- `Tabuada.java`
 
 ### 5. Concatenação de Tipos
 Crie variáveis de diferentes tipos:
@@ -35,6 +48,9 @@ Crie variáveis de diferentes tipos:
 - `boolean`
 
 Ao final, exiba uma frase concatenando todas elas em uma única mensagem de saída.
+
+**Arquivo:**
+- `Concatenacao.java`
 
 ### 6. Desconto INSS
 Crie uma variável para o salário, aplique a lógica de desconto do INSS e exiba o valor final com desconto.
@@ -49,20 +65,6 @@ Este exercício foi feito de duas formas:
 - com `if/else`
 - com `switch`
 
-## Tecnologias utilizadas
-
-- Java
-- VS Code
-
-## Objetivo
-
-Praticar os conceitos iniciais da linguagem Java, incluindo:
-- variáveis
-- operadores
-- estruturas condicionais
-- laços de repetição
-- entrada e saída de dados
-
-## Autor
-
-Bernardo Oliveira
+**Arquivos:**
+- `INSS.java` → versão com `if/else`
+- `INSS2.java` → versão com `switch`
